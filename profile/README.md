@@ -16,6 +16,7 @@ It works locally for development and scales on Kubernetes for production.
 | [`eval-hub-sdk`](https://github.com/eval-hub/eval-hub-sdk) | Python SDK — async/sync clients, adapter framework (BYOF), CLI tools, MCP server for agent integration |
 | [`eval-hub-contrib`](https://github.com/eval-hub/eval-hub-contrib) | Community-contributed framework adapters (LightEval, GuideLLM, MTEB, and more) |
 | [`eval-hub.github.io`](https://github.com/eval-hub/eval-hub.github.io) | Documentation site — architecture, guides, SDK reference |
+| [`eval-hub-skills`](https://github.com/eval-hub/eval-hub-skills) | Agent Skills for EvalHub |
 
 ## Key capabilities
 
